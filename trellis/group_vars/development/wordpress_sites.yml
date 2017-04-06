@@ -5,7 +5,7 @@
 wordpress_sites:
   razzmatazzrr.com:
     site_hosts:
-      - canonical: razz.dev
+      - canonical: razzmatazzrr.dev
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: raphael.rahner@gmail.com
     multisite:
