@@ -17,7 +17,7 @@ Available environments:
 
 Examples:
   deploy staging example.com
-  deploy production razzmatazzrr.com
+  deploy production example.com
 "
 }
 
